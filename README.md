@@ -3,7 +3,7 @@ Temp and %temp% cleaner, this process helps you to get a better performance of y
 
 
 
-<h1>Download app as .exe file <a href="https://github.com/RaziFalah/Temp-cleaner/releases" targe="_blank">here</a></h1>
+<h1>Download app as .exe file <a href="https://github.com/RaziFalah/Temp-cleaner/releases/tag/v1.0.1" targe="_blank">here</a></h1>
 
 
 
